@@ -1,0 +1,44 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary executables
+*.exe
+*.out
+*.app
+*.elf
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Assembly files created by compiler
+*.s
+
+# Debug files
+*.dSYM/
+*.d
+*.gcda
+*.gcno
+*.gcov
+
+# Logs
+*.log
+
+# Temporary / backup files
+*~
+*.swp
+*.tmp
+*.bak
+
+# Cache or build directories
+/build/
+/dist/
+/bin/
+/target/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnails
+Thumbs.db
